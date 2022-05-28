@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mehul Vairagi
 - 👀 I’m interested in Tech | Video editing | Creating webpages 
 - 🌱 I’m currently learning Web Develeopment | Using Swift | and many more .
-- 💞️ I’m looking to collaborate on ...
+<!--- 💞️ I’m looking to collaborate on ...-->
 - 📫 How to reach me  - 
 - Telegram - @iamfatty17
 - Twitter- @mehul_vairagi11
